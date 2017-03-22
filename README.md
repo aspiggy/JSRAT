@@ -1,7 +1,11 @@
 # How to Use Python_JSRAT:
 
-## JSRat Server
+## JSRat Server Usage
+```
+JSRat Server
+
 Usage: MyJSRat.py [options]
+
 Options:
   --version             show program's version number and exit
   -h, --help            show this help message and exit
@@ -12,7 +16,7 @@ Options:
   -c CMD, --command=CMD
                         auto Send command to client (No interaction)
   -v                    Enable Verbose Output
-
+```
 ## Two Modes:
   1-Interactive mode
    python MyJSRat.py -i 192.168.1.101 -p 8080
