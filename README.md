@@ -26,6 +26,6 @@ Options:
   python MyJSRat.py -i 192.168.1.101 -p 8080 -c "whoami"
 ```
 ## Url explain:
-http://192.168.1.101:8080/connect  default reverse url
-http://192.168.1.101:8080/wtf To see the code ran on the client
-http://192.168.1.101:8080/hook IE hook link
+* http://192.168.1.101:8080/connect  default reverse url
+* http://192.168.1.101:8080/wtf To see the code ran on the client
+* http://192.168.1.101:8080/hook IE hook link
