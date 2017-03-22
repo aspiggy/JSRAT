@@ -2,25 +2,21 @@
 
 # How to Use Python_JSRAT:
 JSRat Server
+By: Evi1cg
+
 Usage: MyJSRat.py [options]
 
 Options:
-
-  --version               show program's version number and exit
-  
-  -h, --help              show this help message and exit
-  
-  -i IP, --ip=IP          IP to Bind Server to (i.e. 192.168.0.69)
-  
-  -p PORT, --port=PORT    Port to Run Server on
-  
-  -u URL, --url=URL       URL to Initiate Client Connection (default: /connect)
-  
-  -f, --find-ip           Display Current Internal and External IP Addresses
-  
-  -c CMD, --command=CMD   auto Send command to client (No interaction)
-                        
-  -v                      Enable Verbose Output
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -i IP, --ip=IP        IP to Bind Server to (i.e. 192.168.0.69)
+  -p PORT, --port=PORT  Port to Run Server on
+  -u URL, --url=URL     URL to Initiate Client Connection (default: /connect)
+  -f, --find-ip         Display Current Internal and External IP Addresses
+  -c CMD, --command=CMD
+                        auto Send command to client (No interaction)
+  -v                    Enable Verbose Output
+```
   
 Two Modes:
 
